@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 I'm a student at Charles University <br>🎮 I'm looking forward to working on software development projects<br>🤝 I’m looking for projects to work with someone<br>📚 I'm currently studying math (hoping it ends well)<br>💬 EXCEPT my studies, you can ask me anything<br>⚡ Fun fact: ...
 
+My website: https://nazrin-bayramli.netlify.app/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nazrinbayramli34) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/banz_fk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazrin-bayramli2007/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nbayramli2007@gmail.com) 
