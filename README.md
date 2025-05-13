@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Computer Science student at Charles University <br>🎮 I'm looking forward to working on software development projects<br>🤝 I’m looking for projects to work with someone individually as well.<br>💬 EXCEPT my studies, you can ask me anything<br>⚡ Fun fact: I can solve rubix cube under 1 minute;
+🎓 I'm a Computer Science student at Charles University <br>🎮 I'm looking forward to working on software development projects<br>🤝 I’m looking for projects to work with someone individually as well.<br>⚡ Fun fact: I can solve rubix cube under 1 minute;
 
 My website: https://nazrin-bayramli.netlify.app/
 
