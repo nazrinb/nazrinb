@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Computer Science student at Charles University <br>🎮 I'm looking forward to working on software development projects<br>🤝 I’m looking for projects to work with someone individually as well.<br>⚡ Fun fact: I actually like debugging.
+🎓 I'm an enthusiast <br>🎮 I'm looking forward to working on software development projects<br>🤝 I’m looking for projects to work with someone individually as well.<br>⚡ Fun fact: I actually like debugging.
 
 My website: https://nazrin-bayramli.netlify.app/
 
