@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm an enthusiast <br>🎮 I'm looking forward to working on software development projects<br>🤝 I’m looking for projects to work with someone individually as well.<br>⚡ Fun fact: I actually like debugging.
+🎓 Just chillin' <br>
 
 My website: https://nazrin-bayramli.netlify.app/
 
